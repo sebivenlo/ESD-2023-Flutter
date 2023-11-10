@@ -13,7 +13,7 @@ That includes:
 
 ## 1. Introduction - 10min
 - **Overview, What is Flutter/Dart** -- Manuel
-  - Why Flutter Web is noisy
+  - Why Flutter Web is not so great
 - **Flutter vs. Other Frameworks? (Comparison)** -- Daniel
   - Xamarin
   - React Native
