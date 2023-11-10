@@ -9,38 +9,38 @@ That includes:
 - References.
 - Docker (compose) file (if applicable)
 
-# Brainstorm
+# Workshop Agenda
 
-Introduction - 10min
-a. Overview, What is Flutter/Dart -- Manuel
- i. Why Flutter Web is not so great
-b. Flutter vs. Other Frameworks? (Comparison) -- Daniel
- i. Xamarin
- ii. React Native
-c. Dart vs. Java -- Jonas
- i. Naming conventions e.g. “int_counter” and their benefits
+## 1. Introduction - 10min
+- **Overview, What is Flutter/Dart** -- Manuel
+  - Why Flutter Web is noisy
+- **Flutter vs. Other Frameworks? (Comparison)** -- Daniel
+  - Xamarin
+  - React Native
+- **Dart vs. Java** -- Jonas
+  - Naming conventions e.g. “int_counter” and their benefits
 
-Flutter Basics - 20min
-a. What are Widgets? --Daniel
-b. Layoutting: Container, Row, Column, etc -- Jonas
+## 2. Flutter Basics - 20min
+- **What are Widgets?** --Daniel
+- **Layoutting: Container, Row, Column, etc** -- Jonas
 
-Setup - 10min -- Manuel
-a. Installing Flutlab.io
-b. Which IDE is usually used
+## 3. Setup - 10min -- Manuel
+- Installing Flutlab.io
+- Which IDE is usually used
 
-Interactive Part - 30min
-a. Let [them] build any app (can give examples like Quiz App, To-Do List, etc) --Daniel
- i. Code examples for integration
+## 4. Interactive Part - 30min
+- **Let [them] build any app** (can give examples like Quiz App, To-Do List, etc) --Daniel
+  - Code examples for integration
 
-Advanced Stuff - 10min
-a. State Management -- Manuel
-b. Plugins, Packages -- Jonas
+## 5. Advanced Stuff - 10min
+- **State Management** -- Manuel
+- **Plugins, Packages** -- Jonas
 
-Q&A - 10min
-a. Answer questions
-b. Tips for beginners
+## 6. Q&A - 10min
+- Answer questions
+- Tips for beginners
 
-Conclusion - 5min
-a. Summary --Daniel
-b. Resources, where you can learn more, etc.
- i. Flutter YT
+## 7. Conclusion - 5min
+- **Summary** --Daniel
+- **Resources, where you can learn more, etc.**
+  - Flutter YT
