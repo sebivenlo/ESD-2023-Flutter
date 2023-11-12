@@ -1,3 +1,6 @@
+# Assignment
+You can read through and download the assignment [here](https://github.com/sebivenlo/ESD-2023-Flutter/releases/tag/assignment).
+
 # ESD template
 
 Please make sure all artifacts are in this GitHub repository.  
