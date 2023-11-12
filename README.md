@@ -9,20 +9,26 @@ ESD Workshop - Flutter Cross-Platform Development
 5. **[Sources](#sources)**
 
 <a name="setup"></a>
-## Setup Web IDE and Import Project
+## 🚀 Setup Web IDE and Import Project
 - Installing Flutlab.io
-  - Go to Flutlab.io and register an account
+  - Go to [Flutlab.io](https://flutlab.io/). and register an account
   - Yes, registration is needed because of some limitations if not logged in
   - If asked to create an example project, press NO, we will provide you with one
+  - Go to our assignment page [here](https://github.com/sebivenlo/ESD-2023-Flutter/releases/tag/assignment), scroll to the very bottom, download the .zip
+  - On your Flutlab workspace, go to "Import Repository" <br> <img width="455" alt="image" src="https://github.com/sebivenlo/ESD-2023-Flutter/assets/60880419/925aacda-786e-427c-9825-f68d5a1d7652">
+  - Next, go to "Upload as a ZIP file" and attach our project <br> <img width="300" alt="image" src="https://github.com/sebivenlo/ESD-2023-Flutter/assets/60880419/50a0e22b-d29d-4b2e-9b74-491c1a9b5209">
+  - You will be asked to provide a name - choose whatever you want.
+  - Our project will be available to you on your personal workspace now. 🥳
+
 
 <a name="assignment"></a>
-## Assignment: Interactive App Building
+## 📱 Assignment: Interactive App Building
 - You can read through and download the assignment [here](https://github.com/sebivenlo/ESD-2023-Flutter/releases/tag/assignment).
 - Interactive App Building
 - Code Integration Examples
 
 <a name="agenda"></a>
-## Agenda
+## 📝 Agenda
 ### Introduction (10 min)
 - Overview of Flutter/Dart
 - Flutter: Limitations and Considerations
@@ -49,13 +55,13 @@ ESD Workshop - Flutter Cross-Platform Development
 - Additional Learning Resources
 
 <a name="resources"></a>
-## Resources/Further Learning Materials
+## 📚 Resources/Further Learning Materials
 - [Flutter Official Website](https://flutter.dev/)
 - [Flutter YouTube Channel](https://www.youtube.com/@flutterdev/videos)
 - [Fireship Flutter Playlist (22 videos)](https://www.youtube.com/watch?v=hwBUU9CP4qI&list=PL0vfts4VzfNiQYtnn1TZ6U0Ec_vjCN9VY)
 
 <a name="sources"></a>
-## Sources
+## 🤝 Sources
 - [Dart and Flutter Tutorial](https://marketsplash.com/tutorials/dart/dart-flutter/)
 - [What's Flutter? - FreeCodeCamp](https://www.freecodecamp.org/news/https-medium-com-rahman-sameeha-whats-flutter)
 - [Flutter Layout Widgets](https://docs.flutter.dev/ui/widgets/layout)
