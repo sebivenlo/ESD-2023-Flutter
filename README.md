@@ -1,5 +1,11 @@
 ![image](https://github.com/sebivenlo/ESD-2023-Flutter/assets/60880419/614dc03b-0658-4ac2-9e86-b52d4e083e72)
 ESD Workshop - Flutter Cross-Platform Development
+
+Above you can open or download our presentation slides named:
+
+Flutter-ESD.pdf
+Flutter-ESD.pptx
+
 # Table of Contents
 
 1. **[Setup Web IDE and Import Project](#setup)**
