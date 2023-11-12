@@ -73,6 +73,10 @@ ESD Workshop - Flutter Cross-Platform Development
 - [Flutter for Web Development](https://www.miquido.com/blog/flutter-for-web-development/)
 - [Flutter YouTube Tutorial](https://www.youtube.com/watch?v=3tm-R7ymwhc)
 - [State Management in Flutter](https://docs.flutter.dev/data-and-backend/state-mgmt/intro)
+- [Redux GitHub Issue Discussion](https://github.com/reduxjs/redux/issues/1287#issuecomment-175351978)
+- [Xamarin vs Flutter vs React Native - The Mobile Reality](https://themobilereality.com/blog/xamarin-vs-flutter-vs-react-native)
+- [Xamarin, Flutter, and React Native Comparison - Promatics](https://promatics.medium.com/heres-who-would-win-if-xamarin-flutter-and-react-native-fight-out-in-2021-8fa6e22fdfbb)
+
 
 
 
